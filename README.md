@@ -1,3 +1,5 @@
+Miniräknare
+
 En simpel JavaScript Miniräknare
 Okej, nu är det dags att programmera en ordentlig, fast enkel miniräknare i JavaScript. Nedan kommer instruktionerna. Ni behöver som alltid en index.html och en index.js som måste vara ihopkopplade.
 Skapa en prompt som frågar om ett valfritt tal. Spara undan i en variabel.
